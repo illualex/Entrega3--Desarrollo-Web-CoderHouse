@@ -260,7 +260,7 @@ body.open .navbar-menu {
 }
 
 .section1 {
-  background: url(/images/collaborations-image/banner-collaborations.png);
+  background: url(../images/collaborations-image/banner-collaborations.png);
   background-size: 100%;
   padding: 20px;
   background-repeat: no-repeat;
@@ -268,7 +268,7 @@ body.open .navbar-menu {
 }
 
 .section2 {
-  background: url(/images/trajectory-image/banner-trajectory.png);
+  background: url(../images/trajectory-image/banner-trajectory.png);
   background-size: 100%;
   padding: 20px;
   background-repeat: no-repeat;
